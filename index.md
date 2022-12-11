@@ -1,5 +1,5 @@
 ---
-title: Scalable Seminar
+title: Scalable algorithms in applicable mathematics
 ---
 
 This is the draft page of **Math 692 Graduate Seminar** in Spring 2023, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
