@@ -4,6 +4,6 @@ email: elbueler@alaska.edu
 github_username: bueler
 #description:
 theme: cayman
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
+#markdown: kramdown
+#kramdown:
+#  math_engine: mathjax
