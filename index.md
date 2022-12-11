@@ -24,9 +24,11 @@ This is the draft page of **Math 692 Graduate Seminar** in Spring 2023, in the [
 
 ## proposed content
 
-My idea is to have a seminar where we can learn about any mathematical algorithms, or even algorithms more generally, which are aimed at solving large problems.  Each presentation would be expected to try to clarify the size $n$ of the data to which the algorithm applies, and try to understand or estimate how the time, amount of computation, or amount of memory depends on the size $n$ of the data.  Beyond that basic expecation the topics could be very wide-ranging.
+My idea is to have a seminar where we can learn about mathematical (or somewhat mathematical) algorithms which are aimed at solving large problems.  The best algorithms are *optimal* because they solve in $O(n)$ or $O(n\log n)$ time or memory, for data size $n$, but that is not possible for some problems.  The ideal presentations might explain, and show concretely with examples, how optimal (or near-optimal, or best-known) discrete or continuous algorithms work.  Such algorithms have a chance of solving the biggest, hardest problems in areas where mathematics is applied.
 
-Many of the best algorithms are *optimal* because they solve in $O(n)$ or $O(n\log n)$ time.  (Big O notation might often be used in presentations here, but the goal is not a course on the theory of complexity.  See [CS 611 Complexity of Algorithms](https://catalog.uaf.edu/courses/cs/) for that.)  Can we concretely understand discrete or continuous algorithms that have a chance of solving big problems in important areas of applied mathematics?
+Each presentation should at least to try to clarify the size $n$ of the data to which the algorithm applies.  Presenters should explain how the run time, amount of computation, or amount of memory of the algorithm depends on the size $n$ of the data.  Beyond such basic expectations the talks can be diverse and the topics very wide-ranging!  See some possible topics below; there must be many more I don't know about.
+
+Big O notation will often be used in presentations here, but the goal is *not* a course on the theory of complexity.  See [CS 611 Complexity of Algorithms](https://catalog.uaf.edu/courses/cs/) for that.
 
 ### possible topics
 
@@ -49,4 +51,4 @@ Time and place: to be determined
 
 CRN: to be determined
 
-Credits: 1.0, but **non-credit attendance is encouraged*.  If you want to take the seminar for credit then you should expect to give a least one presentation.
+Credits: 1.0, but **non-credit attendance is also strongly encouraged*.  If you want to take the seminar for credit then you should expect to give a least one presentation.
