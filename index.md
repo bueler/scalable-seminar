@@ -24,11 +24,13 @@ This is the draft page of **Math 692 Graduate Seminar** in Spring 2023, in the [
 
 ## proposed content
 
-My idea is to have a seminar where we can learn about mathematical (or somewhat mathematical) algorithms which are aimed at solving large problems.  The best algorithms are *optimal* because they solve in $O(n)$ or $O(n\log n)$ time or memory, for data size $n$, but that is not possible for some problems.  The ideal presentations might explain, and show concretely with examples, how optimal (or near-optimal, or best-known) discrete or continuous algorithms work.  Such algorithms have a chance of solving the biggest, hardest problems in areas where mathematics is applied.
+My idea is to have a seminar where we can learn about mathematical (or somewhat mathematical) algorithms which are aimed at solving large problems.  The best algorithms are *optimal* because they solve in $O(n)$ or $O(n\log n)$ time or memory, for data size $n$.  While optimal performance is not possible for some problems, algorithms which scale well with $n$ have a chance of solving the biggest, hardest problems in areas where mathematics is applied.
 
-Each presentation should at least to try to clarify the size $n$ of the data to which the algorithm applies.  Presenters should explain how the run time, amount of computation, or amount of memory of the algorithm depends on the size $n$ of the data.  Beyond such basic expectations the talks can be diverse and the topics very wide-ranging!  See some possible topics below; there must be many more I don't know about.
+The ideal presentation might explain, and show concretely with examples, how an optimal (or near-optimal, or best-known) discrete or continuous algorithm works.  Each presentation should at least to try to clarify the size $n$ of the data to which the algorithm applies.  Presenters should explain how the run time, amount of computation, or amount of memory of the algorithm depends on the size $n$ of the data.
 
-Big O notation will often be used in presentations here, but the goal is *not* a course on the theory of complexity.  See [CS 611 Complexity of Algorithms](https://catalog.uaf.edu/courses/cs/) for that.
+Beyond such basic expectations the talks should be diverse and the topics very wide-ranging!  See some possible topics below; there must be many more I don't know about.
+
+Big O notation will often be used in presentations here, but the goal is *not* to create a theory of complexity course.  See [CS 611 Complexity of Algorithms](https://catalog.uaf.edu/courses/cs/) for that.
 
 ### possible topics
 
@@ -43,7 +45,7 @@ Big O notation will often be used in presentations here, but the goal is *not* a
   * limited-memory optimization schemes
   * geometric algorithms in computer graphics (e.g. [here](https://www.cs.princeton.edu/courses/archive/fall04/cos226/lectures/geometry.4up.pdf))
   * graph algorithms (?)
-  * fast monte carlo implementations (?)
+  * monte carlo algorithms (?)
 
 ### course details
 
