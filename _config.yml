@@ -2,8 +2,7 @@ title: Scalable algorithms in applicable mathematics
 author: Ed Bueler
 email: elbueler@alaska.edu
 github_username: bueler
-theme: slate
-#theme: cayman [worked for a while and stopped working]
-#markdown: kramdown
+markdown: kramdown
+theme: cayman
 #kramdown:
 #  math_engine: mathjax
