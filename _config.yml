@@ -1,4 +1,6 @@
-# Build settings
-
-markdown: kramdown
+title: Math 692 in Spring 2023: Scalable algorithms in applicable mathematics
+author: Ed Bueler
+email: elbueler@alaska.edu
+github_username: bueler
+#description:
 theme: jekyll-theme-cayman
