@@ -1,6 +1,9 @@
-title: Math 692 in Spring 2023 (Scalable algorithms in applicable mathematics)
+title: Scalable algorithms in applicable mathematics
 author: Ed Bueler
 email: elbueler@alaska.edu
 github_username: bueler
 #description:
-theme: minima
+theme: cayman
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
