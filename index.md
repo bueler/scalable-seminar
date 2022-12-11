@@ -51,4 +51,4 @@ Time and place: to be determined
 
 CRN: to be determined
 
-Credits: 1.0, but **non-credit attendance is also strongly encouraged*.  If you want to take the seminar for credit then you should expect to give a least one presentation.
+Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  If you want to take the seminar for credit then you should expect to give a least one presentation.
