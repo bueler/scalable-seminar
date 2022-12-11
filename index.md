@@ -1,20 +1,7 @@
-<head>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-      extensions: ["tex2jax.js"],
-      tex2jax: {
-          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-          processEscapes: true,
-          processRefs: true,
-          processEnvironments: true
-      },
-      TeX: { equationNumbers: { autoNumber: "AMS" } }
-  });
-</script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-</head>
+---
+layout: main-page
+title: Scalable Seminar
+---
 
 This is the draft page of **Math 692 Graduate Seminar** in Spring 2023, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
