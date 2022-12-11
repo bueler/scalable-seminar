@@ -22,6 +22,14 @@ This is the draft page of **Math 692 Graduate Seminar** in Spring 2023, in the [
 
 [Ed Bueler](http://bueler.github.io/).  Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu).
 
+### official details
+
+Time and place: to be determined
+
+CRN: to be determined
+
+Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  If you want to take the seminar for credit then you should expect to give a least one presentation.
+
 ## proposed content
 
 My idea is to have a seminar where we can learn about mathematical (or somewhat mathematical) algorithms which are aimed at solving large problems.  The best algorithms are *optimal* because they solve in $O(n)$ or $O(n\log n)$ time or memory, for data size $n$.  While optimal performance is not possible for some problems, algorithms which scale well with $n$ have a chance of solving the biggest, hardest problems in areas where mathematics is applied.
@@ -46,11 +54,3 @@ Big O notation will often be used in presentations here, but the goal is *not* t
   * geometric algorithms in computer graphics (e.g. [here](https://www.cs.princeton.edu/courses/archive/fall04/cos226/lectures/geometry.4up.pdf))
   * graph algorithms (?)
   * monte carlo algorithms (?)
-
-### course details
-
-Time and place: to be determined
-
-CRN: to be determined
-
-Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  If you want to take the seminar for credit then you should expect to give a least one presentation.
