@@ -3,6 +3,6 @@ author: Ed Bueler
 email: elbueler@alaska.edu
 github_username: bueler
 markdown: kramdown
-theme: cayman
+theme: minima
 #kramdown:
 #  math_engine: mathjax
