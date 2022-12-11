@@ -1,5 +1,4 @@
 ---
-layout: main-page
 title: Scalable Seminar
 ---
 
