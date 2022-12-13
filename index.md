@@ -2,13 +2,13 @@
 title: Scalable algorithms in applicable mathematics
 ---
 
-This is the draft page of **Math 692 Graduate Seminar** in Spring 2023, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
+This is the page of **Math 692 Graduate Seminar: Scalable algorithms in applicable mathematics** in Spring 2023, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
 ### official details
 
-Time and place: to be determined
+Time and place: Thursdays 4-5pm, Chapman 104
 
-CRN: to be determined
+CRN: 37822 (section 901: in-person), 37821 (section 701: synchronous zoom)
 
 Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  If you want to take the seminar for credit then you should expect to give a least one presentation.
 
