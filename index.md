@@ -14,6 +14,8 @@ Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  If you
 
 Organizer: [Ed Bueler](http://bueler.github.io/).  Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu).
 
+[Scroll to schedule of talks at bottom.](#schedule)
+
 ## proposed content
 
 My idea is to have a seminar where we can learn about mathematical (or somewhat mathematical) algorithms which are aimed at solving large problems.  The best algorithms are *optimal* because they solve in $O(n)$ or $O(n\log n)$ time or memory, for data size $n$.  While optimal performance is not possible for some problems, algorithms which scale well with $n$ have a chance of solving the biggest, hardest problems in areas where mathematics is applied.
@@ -38,3 +40,12 @@ Big O notation will often be used in presentations here, but the goal is *not* t
   * geometric algorithms in computer graphics (e.g. [here](https://www.cs.princeton.edu/courses/archive/fall04/cos226/lectures/geometry.4up.pdf))
   * graph algorithms (?)
   * monte carlo algorithms (?)
+
+## <a id="schedule"></a> schedule of talks
+
+| Date   | Speaker         | Title  |
+|--------|-----------------|--------|
+| 19 Jan | (none?)         |        |
+| 26 Jan | Ed Bueler       | Making ice sheet models scale properly |
+| 2 Feb  |                 |        |
+| 9 Feb  |                 |        |
