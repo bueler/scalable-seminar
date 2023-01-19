@@ -14,7 +14,7 @@ Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  If you
 
 Organizer: [Ed Bueler](http://bueler.github.io/).  Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu).
 
-[Scroll to schedule of talks at bottom.](#schedule)
+[Jump to schedule of talks at bottom.](#schedule)
 
 ## proposed content
 
