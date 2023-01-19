@@ -45,7 +45,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 
 | Date   | Speaker         | Title  |
 |--------|-----------------|--------|
-| 19 Jan | (none?)         |        |
+| 19 Jan | none            |        |
 | 26 Jan | [Ed Bueler](https://bueler.github.io/) | Making ice sheet models scale properly |
 | 2 Feb  |                 |        |
 | 9 Feb  |                 |        |
@@ -53,3 +53,10 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 23 Feb |                 |        |
 | 2 Mar  |                 |        |
 | 9 Mar  |                 |        |
+| 23 Mar |                 |        |
+| 30 Mar |                 |        |
+| 6 Apr  |                 |        |
+| 13 Apr |                 |        |
+| 20 Apr |                 |        |
+| 27 Apr |                 |        |
+| 4 May  |                 |        |
