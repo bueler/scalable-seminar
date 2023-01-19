@@ -1,6 +1,8 @@
 ---
-title: Distribution/email list for Scalable Seminar
+title: Scalable algorithms in applicable mathematics
 ---
+
+## distribution/email list
 
 Based on emails to Ed and official signups:
 
