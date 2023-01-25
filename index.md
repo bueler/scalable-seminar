@@ -4,17 +4,15 @@ title: Scalable algorithms in applicable mathematics
 
 This is the page of **Math 692 Graduate Seminar: Scalable algorithms in applicable mathematics** in Spring 2023, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
+[Jump to schedule of talks at bottom.](#schedule)
+
 ### official details
+
+Organizer: [Ed Bueler](http://bueler.github.io/), [elbueler@alaska.edu](mailto:elbueler@alaska.edu).
 
 Time and place: Thursdays 4-5pm, Chapman 104
 
-CRN: 37822 (section 901: in-person), 37821 (section 701: synchronous zoom)
-
-Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  If you want to take the seminar for credit then you should expect to give a least one presentation.
-
-Organizer: [Ed Bueler](http://bueler.github.io/).  Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu).
-
-[Jump to schedule of talks at bottom.](#schedule)
+Credits: 1.0, but **non-credit attendance is also strongly encouraged**.  (CRN 37822 for in-person section 901, 37821 for synchronous zoom section 701.)  If you want to take the seminar for credit then you should expect to give a least one presentation.
 
 ## proposed content
 
