@@ -16,10 +16,11 @@ Based on emails to Ed and official signups:
   * Sasha (Oleksandr) B
   * Michael C
   * Christopher M
+  * Orion L
 
 Thus:
 
         elbueler@alaska.edu, oihernandez@alaska.edu, gwoodworth@alaska.edu,
         gsfochesatto@alaska.edu, vdevauxchupin@alaska.edu>, asmith155@alaska.edu,
         giwilliams@alaska.edu, obobrovnikov@alaska.edu, mchristoffersen@alaska.edu,
-        cmunoz9@alaska.edu
+        cmunoz9@alaska.edu, oslawlor@alaska.edu
