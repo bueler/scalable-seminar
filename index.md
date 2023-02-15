@@ -45,10 +45,10 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 |--------|-----------------|--------|
 | 19 Jan | none            |        |
 | 26 Jan | [Ed Bueler](https://bueler.github.io/) | Making ice sheet models scale properly |
-| 2 Feb  |                 |        |
-| 9 Feb  |                 |        |
+| 2 Feb  | none            |        |
+| 9 Feb  | none            |        |
 | 16 Feb |                 |        |
-| 23 Feb |                 |        |
+| 23 Feb | [Ed Bueler](https://bueler.github.io/) | Which linear systems can be solved optimally? |
 | 2 Mar  |                 |        |
 | 9 Mar  |                 |        |
 | 23 Mar |                 |        |
