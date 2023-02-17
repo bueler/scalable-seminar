@@ -22,6 +22,6 @@ Based on emails to Ed, and/or official signups, and/or expression of interest:
 Thus:
 
         elbueler@alaska.edu, oihernandez@alaska.edu, gwoodworth@alaska.edu,
-        gsfochesatto@alaska.edu, vdevauxchupin@alaska.edu>, asmith155@alaska.edu,
+        gsfochesatto@alaska.edu, vdevauxchupin@alaska.edu, asmith155@alaska.edu,
         giwilliams@alaska.edu, obobrovnikov@alaska.edu, mchristoffersen@alaska.edu,
         cmunoz9@alaska.edu, oslawlor@alaska.edu, gnowak@alaska.edu
