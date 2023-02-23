@@ -49,7 +49,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 9 Feb  | none            |        |
 | 16 Feb | none            |        |
 | 23 Feb | [Ed Bueler](https://bueler.github.io/) | Which linear systems can be solved optimally? |
-| 2 Mar  |                 |        |
+| 2 Mar  | Glen Woodworth  | An algorithm for graph isomorphism |
 | 9 Mar  |                 |        |
 | 23 Mar |                 |        |
 | 30 Mar |                 |        |
