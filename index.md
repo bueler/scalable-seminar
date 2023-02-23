@@ -26,7 +26,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 
 ## possible topics
 
-  * iterative linear algebra for sparse matrices
+  * iterative linear algebra for sparse matrices (Krylov, etc.)
   * fast Fourier transform (FFT)
   * fast sorting algorithms
   * multigrid for solving partial differential equations
@@ -47,7 +47,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 26 Jan | [Ed Bueler](https://bueler.github.io/) | Making ice sheet models scale properly |
 | 2 Feb  | none            |        |
 | 9 Feb  | none            |        |
-| 16 Feb |                 |        |
+| 16 Feb | none            |        |
 | 23 Feb | [Ed Bueler](https://bueler.github.io/) | Which linear systems can be solved optimally? |
 | 2 Mar  |                 |        |
 | 9 Mar  |                 |        |
