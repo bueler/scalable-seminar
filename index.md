@@ -53,7 +53,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 9 Mar  |                 |        |
 | 23 Mar |                 |        |
 | 30 Mar |                 |        |
-| 6 Apr  |                 |        |
+| 6 Apr  | Austin Smith    | Limited-memory optimization |
 | 13 Apr |                 |        |
 | 20 Apr |                 |        |
 | 27 Apr |                 |        |
