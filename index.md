@@ -44,11 +44,11 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | Date   | Speaker         | Title  |
 |--------|-----------------|--------|
 | 19 Jan | none            |        |
-| 26 Jan | [Ed Bueler](https://bueler.github.io/) | Making ice sheet models scale properly |
+| 26 Jan | [Ed Bueler](https://bueler.github.io/) | [Making ice sheet models scale properly](bueler-oxfordmg2023.pdf) |
 | 2 Feb  | none            |        |
 | 9 Feb  | none            |        |
 | 16 Feb | none            |        |
-| 23 Feb | [Ed Bueler](https://bueler.github.io/) | Which linear systems can be solved optimally? |
+| 23 Feb | [Ed Bueler](https://bueler.github.io/) | [Which linear systems can be solved optimally?](bueler-optimal-linear.pdf) |
 | 2 Mar  | Glen Woodworth  | An algorithm for graph isomorphism |
 | 9 Mar  |                 |        |
 | 23 Mar |                 |        |
