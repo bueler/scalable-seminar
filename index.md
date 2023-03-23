@@ -51,7 +51,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 23 Feb | [Ed Bueler](https://bueler.github.io/) | [Which linear systems can be solved optimally?](slides/bueler-optimal-linear.pdf) |
 | 2 Mar  | Glen Woodworth  | An algorithm for graph isomorphism |
 | 9 Mar  | none            |        |
-| 23 Mar |                 |        |
+| 23 Mar | none            |        |
 | 30 Mar | Victor Devaux-Chupin | FFTs and numerical applications in geophysics |
 | 6 Apr  | Austin Smith    | Limited-memory optimization |
 | 13 Apr |                 |        |
