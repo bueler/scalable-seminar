@@ -52,7 +52,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 2 Mar  | Glen Woodworth  | An algorithm for graph isomorphism |
 | 9 Mar  | none            |        |
 | 23 Mar | none            |        |
-| 30 Mar | Victor Devaux-Chupin | FFTs and numerical applications in geophysics |
+| 30 Mar | Victor Devaux-Chupin | [FFTs and applications](slides/DevauxChupin-fft.pptx) |
 | 6 Apr  |                 |        |
 | 13 Apr | Austin Smith    | Limited-memory optimization |
 | 20 Apr | Oscar Hernandez | to be determined |
