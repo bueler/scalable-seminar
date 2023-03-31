@@ -55,6 +55,6 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 30 Mar | Victor Devaux-Chupin | FFTs and numerical applications in geophysics |
 | 6 Apr  |                 |        |
 | 13 Apr | Austin Smith    | Limited-memory optimization |
-| 20 Apr |                 |        |
+| 20 Apr | Oscar Hernandez | to be determined |
 | 27 Apr |                 |        |
 | 4 May  |                 |        |
