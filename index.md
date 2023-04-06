@@ -53,7 +53,7 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 9 Mar  | none            |        |
 | 23 Mar | none            |        |
 | 30 Mar | Victor Devaux-Chupin | [FFTs and applications](slides/DevauxChupin-fft.pptx) |
-| 6 Apr  |                 |        |
+| 6 Apr  | none            |        |
 | 13 Apr | Austin Smith    | Limited-memory optimization |
 | 20 Apr | Oscar Hernandez | to be determined |
 | 27 Apr |                 |        |
