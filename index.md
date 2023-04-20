@@ -55,6 +55,6 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 30 Mar | Victor Devaux-Chupin | [FFTs and applications](slides/DevauxChupin-fft.pptx) |
 | 6 Apr  | none            |        |
 | 13 Apr | Austin Smith    | [Solving sparse linear systems](slides/AustinSmith-sparse.pdf) |
-| 20 Apr | Oscar Hernandez | to be determined |
-| 27 Apr |                 |        |
+| 20 Apr | none            |        |
+| 27 Apr | Oscar Hernandez | to be determined |
 | 4 May  |                 |        |
