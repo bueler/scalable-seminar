@@ -56,5 +56,5 @@ Big O notation will often be used in presentations here, but the goal is *not* t
 | 6 Apr  | none            |        |
 | 13 Apr | Austin Smith    | [Solving sparse linear systems](slides/AustinSmith-sparse.pdf) |
 | 20 Apr | none            |        |
-| 27 Apr | Oscar Hernandez | to be determined |
+| 27 Apr | Oscar Hernandez | Turing machines and the 3-SAT problem |
 | 4 May  |                 |        |
